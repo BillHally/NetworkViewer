@@ -1,0 +1,4 @@
+source https://nugetized.blob.core.windows.net/live-reload/index.json
+source https://www.nuget.org/api/v2/
+
+nuget FSharp.Core
